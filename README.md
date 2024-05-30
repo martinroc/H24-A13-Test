@@ -14,4 +14,4 @@ H24-A13-Test
 - clone
 - commit / branche
 - pull reuquest
-- push / pull vers et depuis le serveur git 
+- push / pull vers et depuis le serveur git
