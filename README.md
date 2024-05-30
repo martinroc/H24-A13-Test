@@ -11,7 +11,7 @@ H24-A13-Test
 - merge
 
 # Étapes depuis le bureau
--clone
--commit / branche
--pull reuquest
-push / pull vers et depuis le serveur git
+- clone
+- commit / branche
+- pull reuquest
+- push / pull vers et depuis le serveur git 
