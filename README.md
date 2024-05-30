@@ -2,7 +2,7 @@
 H24-A13-Test
 
 
-#Étapes à faire :
+Étapes à faire :
 - initialiser un dépot
 - branche
 - commit
